@@ -52,7 +52,7 @@ I'm a passionate *Software Developer* focusing on *Automation Testing* and *Web 
 ## 📬 Let's Connect
 - *Mobile No.*: +917309647468
 - *Email*: praveenkushwaha0468@gmail.com.
-- *LinkedIn*: ([https://www.linkedin.com/in/your-profile/]((https://www.linkedin.com/in/praveen-kushwaha-7ab85821a/))
+- *LinkedIn*: ([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/praveen-kushwaha-7ab85821a/))
 - *GitHub*: [My GitHub Profile](https://github.com/Praveen-kush)
 
 ---
