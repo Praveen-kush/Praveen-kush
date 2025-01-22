@@ -28,12 +28,12 @@ I'm a passionate *Software Developer* focusing on *Automation Testing* and *Data
 ## 💡 What I Do
 - *Automation Testing: Writing tests with **Selenium* and *Cypress* for real-world applications.
 - *Problem Solving: Working on **DSA* problems to sharpen my problem-solving skills.
-- *Web Development: Building beautiful and functional websites with **HTML, **CSS, and **JavaScript*.
+- *Data Analyst: Building beautiful and functional data handling with **HTML, **CSS, and **JavaScript*, **Python, **Pandas, **Numpy, Matplotlib, **Beautifulshop, **Data Visualization.
 
 ---
 
 ## ⚙ Technologies & Tools
-- *Languages*: Java, Python, JavaScript, HTML, CSS
+- *Languages*: Java, Python, Gen-AI, JavaScript, HTML, CSS
 - *Testing Tools*: Selenium WebDriver, Cypress, JUnit, TestNG
 - *Version Control*: Git, GitHub
 - *Other Tools*: Postman, Jenkins, JIRA, Sublime Text, Visual Studio code, Jupyter Notebooks.
