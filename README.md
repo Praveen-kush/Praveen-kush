@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Praveen-kush/Praveen-kush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 
-I'm a passionate *Software Developer* focusing on *Automation Testing* and *Web Development. Currently, I'm diving deep into **Selenium WebDriver, **Cypress, and **Data Structures & Algorithms* to grow as a *Software Development Engineer in Test (SDET)*.
+I'm a passionate *Software Developer* focusing on *Automation Testing* and *Data Analyst. Currently, I'm diving deep into **Selenium WebDriver, **Cypress, and **Data Structures & Algorithms* to grow as a *Software Development Engineer in Test (SDET)*.
 
 ---
 
