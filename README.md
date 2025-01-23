@@ -69,7 +69,7 @@ Thanks for stopping by! 😊 Feel free to check out my repositories or connect w
 <p align="center">
   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhmani-kaur1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img width="32%" src="https://github-readme-stats.vercel.app/api?username=sukhmani-kaur1&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img width="32%" src="https://streak-stats.demolab.com/?user=sukhmani-kaur1&theme=default" alt="GitHub Streaks" />
+<!--   <img width="32%" src="https://streak-stats.demolab.com/?user=sukhmani-kaur1&theme=default" alt="GitHub Streaks" /> -->
 </p>
 
 ---
