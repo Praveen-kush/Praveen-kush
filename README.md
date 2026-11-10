@@ -21,7 +21,7 @@ I'm a passionate *Software Developer* focusing on *Automation Testing* and *Data
 ---
 
 * 🌍  I'm based in Gorkhpur,Uttar Pradesh
-* ✉  You can contact me at [praveenkushwaha0468@gmail.com](mailto:praveenkushwaha0468@gmail.com)
+* ✉  You can contact me at [praveenkushwaha.it@gmail.com](mailto:praveenkushwaha.it@gmail.com)
 * 🧠  I'm learning I'm learn about DSA, Manual Testing, Cypress,JavaScript,API Testing, Selenium.....
 ------------------------------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ I'm a passionate *Software Developer* focusing on *Automation Testing* and *Data
 ## 📬 Let's Connect
 - *Mobile No.*: +917309647468
 - *Email*: praveenkushwaha0468@gmail.com.
-- *LinkedIn*: ([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/praveen-kushwaha-7ab85821a/))
+- *LinkedIn*: ([My LinkedIn Profile](https://www.linkedin.com/in/praveenmurari/))
 - *GitHub*: [My GitHub Profile](https://github.com/Praveen-kush)
 
 ---
@@ -76,10 +76,10 @@ Thanks for stopping by! 😊 Feel free to check out my repositories or connect w
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/praveen-kushwaha-7ab85821a/" target="_blank">
+  <a href="https://www.linkedin.com/in/praveenmurari/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:praveenkushwaha0468@gmail.com" target="_blank">
+  <a href="mailto:praveenkushwaha.it@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
