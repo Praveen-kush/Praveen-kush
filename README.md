@@ -92,4 +92,4 @@ Thanks for stopping by! 😊 Feel free to check out my repositories or connect w
 
 ---
 
-#### 📄 [View My Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=678f8f7f565a02c8ebe69198)
+#### 📄 [View My Resume](https://drive.google.com/file/d/1N3En_2zDzA15j2qzzp7PXw_y5-ajuUN3/view?usp=sharing)
